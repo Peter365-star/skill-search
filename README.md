@@ -4,7 +4,7 @@ cp -r skill-search-skill ~/.claude/skills/skill-search
 使用
 在 Claude Code 中输入 + <skill名称>，例如：
 
-+ brainstorming
++ brainstorming +pdf-editor +video download
 + pdf-editor
 + video download
 会自动搜索 GitHub 上对应的 Skill 仓库，返回 Stars、描述和安装命令。
